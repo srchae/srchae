@@ -11,7 +11,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=srchae)](https://velog.io/@srchae)
 
-[![srchae's GitHub stats](https://github-readme-stats.vercel.app/api?username=srchae&show_icons=true)](https://github.com/srchae/github-readme-stats)
+[![srchae's GitHub stats](https://github-readme-stats.vercel.app/api?username=srchae&show_icons=true&&theme=radical)](https://github.com/srchae/github-readme-stats)
 
 <!--
 **srchae/srchae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
