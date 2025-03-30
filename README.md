@@ -6,6 +6,8 @@
   height="300"
 />
 </a>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=srchae)](https://velog.io/@srchae)
 <!--
 **srchae/srchae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
