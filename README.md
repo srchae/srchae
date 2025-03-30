@@ -1,3 +1,5 @@
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=srchae&utm_content=farm">
 <img
@@ -12,8 +14,6 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=srchae)](https://velog.io/@srchae)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srchae)](https://github.com/srchae/github-readme-stats)
-
-[![srchae's GitHub stats](https://github-readme-stats.vercel.app/api?username=srchae&show_icons=true&&theme=radical)](https://github.com/srchae/github-readme-stats)
 
 <!--
 **srchae/srchae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
