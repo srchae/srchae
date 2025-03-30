@@ -11,6 +11,8 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=srchae)](https://velog.io/@srchae)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srchae)](https://github.com/srchae/github-readme-stats)
+
 [![srchae's GitHub stats](https://github-readme-stats.vercel.app/api?username=srchae&show_icons=true&&theme=radical)](https://github.com/srchae/github-readme-stats)
 
 <!--
