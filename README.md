@@ -24,12 +24,12 @@
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=srchae&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/srchae"
-  width="600"
-  height="300"
-/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=srchae&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/srchae"
+    width="600"
+    height="150"
+  />
 </a>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=srchae)](https://velog.io/@srchae)
